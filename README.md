@@ -34,4 +34,25 @@ Este projeto foi realizado com o suporte de:
 - **Professor Mestre Marlon de Oliveira Vaz** (Coorientador)  
 - **Professor Doutor Marcos Aurélio Pchek Laureano** (Responsável durante a bolsa de inovação)  
 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vazzlr&show_icons=true&count_private=true&hide_border=true&title_color=F1948A&icon_color=F1948A&text_color=fff&bg_color=0d1117" alt="vazzlr github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazzlr&layout=compact&hide_border=true&title_color=008B8B&text_color=fff&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vazzlr&theme=dracula)](https://github.com/vazzlr/github-readme-activity-graph)
+
+### Nossas skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,blender,c++,discord,github,html,linux." />
+  </a>
+</p>
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vazzlr}/count.svg" /></p>
+  <br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85C1E9&height=120&section=footer"/>
+
 
