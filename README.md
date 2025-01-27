@@ -41,10 +41,10 @@ Este projeto foi realizado com o suporte de:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vazzlr&theme=dracula)](https://github.com/vazzlr/github-readme-activity-graph)
 
-### Nossas skills:
+### Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,blender,c++,discord,github,html,linux." />
+    <img src="https://skillicons.dev/icons?i=arduino,c++,discord,github,html,linux." />
   </a>
 </p>
 
